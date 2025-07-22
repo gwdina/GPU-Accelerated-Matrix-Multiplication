@@ -11,7 +11,8 @@ Key Features
 
 - Easily customizable for different matrix sizes or kernel optimizations.
 
-How It Works
+How It Works:
+
 Matrix Initialization:
 Two square matrices A and B are randomly initialized on the host (CPU).
 
